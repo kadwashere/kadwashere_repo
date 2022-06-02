@@ -1,28 +1,50 @@
 <html>
 <head>
-<title> laptop Homepage </title>
+<a href=""#list">goto</a>
+    <title> laptop Homepage </title>
 </head>
 <body>
 
-<h1>This is my heading</h1>
-<p>This is my first <b paragraph</b. I'm so excited to create my first web page!</p>
-<h2>This is my heading</h2>
-<p>This is my first paragraph. I'm so excited to create my first web page!</p>
+    a href=homepage.html>Goto Home page</a><br>
+<a href=""list.html">Goto Links page</a>
+<h1 style="color:red;">This is my heading</h1>
+
+
+<p>This is my first <b>paragraph.</b> I'm so <strong>excited</strong> to create my first web page!</p>
+
+<hr>
+<h2 style="color:blue;">This is my heading</h2>
+
+<p><i>This is my first paragraph. I'm so excited to create my first web page!</i></p>
+<hr>
+
 <h3>This is my heading</h3>
 <p>This is my first paragraph. I'm so excited to create my first web page!</p>
+
+<hr>
 <h4>This is my heading</h4>
 <p>This is my first paragraph. I'm so excited to create my first web page!</p>
+
+<hr>
 <h5>This is my heading</h5>
 <p>This is my first paragraph. I'm so excited to create my first web page!</p>
 <h6>This is my heading</h6>
 
+<hr>
 <img src="alex.jpg">
 <img src="https://static.javatpoint.com/computer/images/mouse.jpg">
 
 <img src="">
 
 
+
+
+<p>This paragraph explains how line break works, we will also
+    <br>learn about links <br>
+    learn about lists <br>
+    learn about hyperlinks
+</p>
+
+
 </body>
 </html>
-
-
